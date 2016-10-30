@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterProject.CSharp.Plugins", "WaterProject.CSharp.Plugins.csproj", "{535B42BE-1697-271C-2B28-DCA35B0114FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaterProject.CSharp.Editor", "WaterProject.CSharp.Editor.csproj", "{20C553B0-8CBD-F514-8687-A736099A865A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{535B42BE-1697-271C-2B28-DCA35B0114FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535B42BE-1697-271C-2B28-DCA35B0114FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535B42BE-1697-271C-2B28-DCA35B0114FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535B42BE-1697-271C-2B28-DCA35B0114FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C553B0-8CBD-F514-8687-A736099A865A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C553B0-8CBD-F514-8687-A736099A865A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C553B0-8CBD-F514-8687-A736099A865A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C553B0-8CBD-F514-8687-A736099A865A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
